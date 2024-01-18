@@ -5,19 +5,25 @@ A study revealed that around 73% of Americans killed at least one plant in a yea
 
 <p align="center">
 <img width="683" alt="Screenshot 2024-01-17 at 9 55 52 PM" src="https://github.com/thakshaCS/Plant-Fairy/assets/97854264/168daa72-54e9-4da2-bc84-f9983a9895f1">
+ 
 Figure 1: Growing interest in houseplants of various types (Economist Data Team, 2018)
-</p>
+ </p>
+
 
 We conducted questionnaires and interviews to better understand the problem. Based on the formative studies there we developed two personas a plant owners and a plant sitter:
 
 <p align="center">
 <img width="619" alt="Screenshot 2024-01-17 at 9 58 02 PM" src="https://github.com/thakshaCS/Plant-Fairy/assets/97854264/3ffe31fb-cf89-4d3b-a62d-6042ad871bd0">
+  
 Figure 2: Plant owner persona
+
 </p>
 
 <p align="center">
 <img width="616" alt="Screenshot 2024-01-17 at 9 58 25 PM" src="https://github.com/thakshaCS/Plant-Fairy/assets/97854264/3414bafd-0e76-4399-b991-a0c4f4f40870">
+  
 Figure 3: Plant sitter persona
+
 </p>
 
 We also created an experince map to develop job stories and design requirments.
@@ -25,5 +31,5 @@ We also created an experince map to develop job stories and design requirments.
 
 <img width="908" alt="Screenshot 2024-01-17 at 10 00 33 PM" src="https://github.com/thakshaCS/Plant-Fairy/assets/97854264/c88050c5-6716-428b-9086-ef5ec2d8971a">
 
-Figure 4 Houseplant Owner (Primary Stakeholder) [Experience Map] (https://drive.google.com/file/d/1KIDb2ZtER_wUuqocbDpv2o8ZhoH45Zsj/view) 
+Figure 4 Houseplant Owner [Experience Map](https://drive.google.com/file/d/1KIDb2ZtER_wUuqocbDpv2o8ZhoH45Zsj/view) 
 
