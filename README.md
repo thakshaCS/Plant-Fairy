@@ -35,11 +35,10 @@ Also based on our finding we created an experince map to help us develop job sto
 
 <p align="center">
 <img width="908" alt="Screenshot 2024-01-17 at 10 00 33 PM" src="https://github.com/thakshaCS/Plant-Fairy/assets/97854264/c88050c5-6716-428b-9086-ef5ec2d8971a">
-
-<p align="center">
+  
 Figure 2: Houseplant Owner [Experience Map](https://drive.google.com/file/d/1KIDb2ZtER_wUuqocbDpv2o8ZhoH45Zsj/view) 
 </p>
-</p>
+
 
 
 ## Design Concepts and Prototypes
@@ -62,9 +61,7 @@ After brainstoroming possible solutions to the problem, we finalized on a soluti
 
 <p align="center">
 <img width="363" alt="Screenshot 2024-01-19 at 2 13 54 PM" src="https://github.com/thakshaCS/Plant-Fairy/assets/97854264/81d9bd97-8fda-4732-bf90-aa5201ca0032">
-</p>
 
-<p align="center">
 Figure 3: Plant Owners uses planty fairy to identify when their plant's health is declining, what the cause is, and to fix the issue by interacting with the hardware
 devices through the app or fixing these issues themselves.
 </p>
@@ -74,20 +71,32 @@ devices through the app or fixing these issues themselves.
 
 <p align="center">
 <img width="704" alt="Screenshot 2024-01-19 at 2 49 56 PM" src="https://github.com/thakshaCS/Plant-Fairy/assets/97854264/88ec667d-ae72-453c-9b71-7959312d5ba0">
-
-<p align="center">
+  
 Figure 4: User registration and plant setup screen-level storyboard.
-For a larger version, please use this [link](https://drive.google.com/file/d/10YSGAxlCIX-IQyMTG-g985lv_YBmAtzI/view).
+For a larger version, [click here](https://drive.google.com/file/d/10YSGAxlCIX-IQyMTG-g985lv_YBmAtzI/view).
 </p>
 
 <p align="center">
 <img width="529" alt="Screenshot 2024-01-19 at 2 51 48 PM" src="https://github.com/thakshaCS/Plant-Fairy/assets/97854264/9bde0c94-6ab7-400f-b6ac-40b5bd8ded8d">
 
+  Figure 5: Device registration and linking to a plant.
+For a larger version,[click here](https://drive.google.com/file/d/1RC3YMgtdxHoX16ictH9k8VW2Mn8xf7JF/view).
+</p>
+
+### Paper Prototype
+
 <p align="center">
-Figure 5: Device registration and linking to a plant.
-For a larger version, please use this [link](https://drive.google.com/file/d/1RC3YMgtdxHoX16ictH9k8VW2Mn8xf7JF/view).
+<img width="624" alt="Screenshot 2024-01-19 at 2 59 36 PM" src="https://github.com/thakshaCS/Plant-Fairy/assets/97854264/11dbb7be-50d7-48fa-8881-44cd458a8d33">
+
+  Figure 6: Paper prototype screens for when users try to access a plant and take care of it from the app. For this set of screens, all necessary devices required for care are added. For a larger, higher quality image, [click here](https://drive.google.com/file/d/12qkDKJ5huxdwQmIFWv4qBj8UDBY2YzDl/view).
 </p>
-</p>
+
+### Evaluvation of Low Fideltiy Prototype
+
+
+#### Think Aloud
+
+#### Heuristic Evaluvation
 
 ## User Research Team
 - Thakshajiny Mangaleswaran
