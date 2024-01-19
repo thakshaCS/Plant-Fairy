@@ -93,10 +93,38 @@ For a larger version,[click here](https://drive.google.com/file/d/1RC3YMgtdxHoX1
 
 ### Evaluvation of Low Fideltiy Prototype
 
+We evaluvated our paper prototype by conducting think aloud and heurstic evaluvations.
 
 #### Think Aloud
 
+Some of the context/tasks provided to the participant in the think aloud section are:
+
+Task: Register and Add A Plant
+Imagine that you are a plant owner, and you are seeking to improve your plant care routine and practices. You expect to learn more about the plant you currently own. 
+Now, I would like you to show me how you would add a snake plant to this app. Feel free to explore the interface as you see fit. 
+
+
+Task: Remedy Plant Issues Via App + Hardware
+Imagine that you are a plant owner, and you are seeking to use plant-care tools to improve your plant-care practices. You expect to be able to adjust water and light levels through the app. Assume all plant hardware has already been added to the plant and app.Now, I would like you to show me how you would water the plant through the app. Then, I would like you to show me how you would adjust light levels through the app. Feel free to explore the interface as you see fit. 
+
+Task: Interact with Other Plant Owners
+Imagine that you are a plant owner, and you are seeking other plant owners to connect with on best practices and tips.
+Now, I would like you to show me how you would engage with other plant owners through the Plant Community discussion forum. Specifically, please show me how you would interact with an existing post (i.e., view, comment). Feel free to explore the interface as you see fit. 
+
+
 #### Heuristic Evaluvation
+
+We categorized the finding from the heurstic evaluvation in what heuristics they violated and the severity of the issue.
+
+<p align="center">
+<img width="670" alt="Screenshot 2024-01-19 at 3 46 31 PM" src="https://github.com/thakshaCS/Plant-Fairy/assets/97854264/4d9fe32d-d787-4383-ba16-e4b3b77c3136">
+<img width="644" alt="Screenshot 2024-01-19 at 3 46 44 PM" src="https://github.com/thakshaCS/Plant-Fairy/assets/97854264/24b4b63a-526e-412d-846c-c642fe60f62d">
+
+Figure 7:  Heuristic Evaluation Feedback Categorization
+
+</p>
+
+The findings from these evaluvation were taken into account to improve our prototype.
 
 ## User Research Team
 - Thakshajiny Mangaleswaran
