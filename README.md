@@ -136,11 +136,11 @@ Based on the feedback from the evaluation of the low fideltiy prototype we refin
 In order to assess the efficiency and effectiveness of the system, we collected data by measuring the time participants took to complete tasks, by gathering their feedback through comments and notes and by having them fill out a system usability scale form. Most particpant stated that Plant Fairy 
 
 - had a clear layout
-- Visually appealing & consistent design
-- Easy to use
-- Tutorial was helpful in figuring out how to use the app
+- visually appealing & consistent design
+- easy to use
+- tutorial was helpful in figuring out how to use the app
 
-and we received an average SUS score 88.06 (excellent).
+Also we received an average SUS score of 88.06 (excellent).
 
 ## User Research Team
 - Thakshajiny Mangaleswaran
