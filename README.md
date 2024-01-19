@@ -99,15 +99,15 @@ We evaluvated our paper prototype by conducting think aloud and heurstic evaluva
 
 Some of the context/tasks provided to the participant in the think aloud section are:
 
-Task: Register and Add A Plant
+- Task: Register and Add A Plant
 Imagine that you are a plant owner, and you are seeking to improve your plant care routine and practices. You expect to learn more about the plant you currently own. 
 Now, I would like you to show me how you would add a snake plant to this app. Feel free to explore the interface as you see fit. 
 
 
-Task: Remedy Plant Issues Via App + Hardware
+- Task: Remedy Plant Issues Via App + Hardware
 Imagine that you are a plant owner, and you are seeking to use plant-care tools to improve your plant-care practices. You expect to be able to adjust water and light levels through the app. Assume all plant hardware has already been added to the plant and app.Now, I would like you to show me how you would water the plant through the app. Then, I would like you to show me how you would adjust light levels through the app. Feel free to explore the interface as you see fit. 
 
-Task: Interact with Other Plant Owners
+- Task: Interact with Other Plant Owners
 Imagine that you are a plant owner, and you are seeking other plant owners to connect with on best practices and tips.
 Now, I would like you to show me how you would engage with other plant owners through the Plant Community discussion forum. Specifically, please show me how you would interact with an existing post (i.e., view, comment). Feel free to explore the interface as you see fit. 
 
@@ -125,6 +125,22 @@ Figure 7:  Heuristic Evaluation Feedback Categorization
 </p>
 
 The findings from these evaluvation were taken into account to improve our prototype.
+
+## High-Fidelity Prototype and Summative Evaluation 
+
+Based on the feedback from the evaluation of the low fideltiy prototype we refined our design. 
+
+## Usability Testing
+
+ We recurited particpant to test the usability of our high fidelity prototype.
+In order to assess the efficiency and effectiveness of the system, we collected data by measuring the time participants took to complete tasks, by gathering their feedback through comments and notes and by having them fill out a system usability scale form. Most particpant stated that Plant Fairy 
+
+- had a clear layout
+- Visually appealing & consistent design
+- Easy to use
+- Tutorial was helpful in figuring out how to use the app
+
+and we received an average SUS score 88.06 (excellent).
 
 ## User Research Team
 - Thakshajiny Mangaleswaran
