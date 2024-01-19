@@ -60,3 +60,13 @@ After brainstoroming possible solutions to the problem, we finalized on a soluti
 </p>
 
 ### Low-Level Storyboard
+
+
+
+## User Research Team
+- Thakshajiny Mangaleswaran
+- Cooper Bolinius
+- Ross Magill 
+- Jaemi Villanueva
+- Ruhani Walia
+- Qiyi Zhang
