@@ -37,3 +37,26 @@ Also based on our finding we created an experince map to help us develop job sto
 
 Figure 2 Houseplant Owner [Experience Map](https://drive.google.com/file/d/1KIDb2ZtER_wUuqocbDpv2o8ZhoH45Zsj/view) 
 
+## Design Concepts and Prototypes
+
+After brainstoroming possible solutions to the problem, we finalized on a solution that drew from the advantages of each solution. We created high and low level storyboard to demonstrate how planter owners will use and iteract with our app.
+
+### High-Level Storyboard
+
+<p align="center">
+<img width="336" alt="Screenshot 2024-01-19 at 2 13 03 PM" src="https://github.com/thakshaCS/Plant-Fairy/assets/97854264/9b17b491-9726-4cf7-a471-2822a37f5a0a">
+</p>
+
+<p align="center">
+<img width="347" alt="Screenshot 2024-01-19 at 2 13 22 PM" src="https://github.com/thakshaCS/Plant-Fairy/assets/97854264/3717b3ab-c8fe-4bef-8b3f-c2cbe4bdb2b3">
+</p>
+
+<p align="center">
+<img width="327" alt="Screenshot 2024-01-19 at 2 13 39 PM" src="https://github.com/thakshaCS/Plant-Fairy/assets/97854264/6c050bfc-1b22-42d1-82b3-e7113d7f179c">
+</p>
+
+<p align="center">
+<img width="363" alt="Screenshot 2024-01-19 at 2 13 54 PM" src="https://github.com/thakshaCS/Plant-Fairy/assets/97854264/81d9bd97-8fda-4732-bf90-aa5201ca0032">
+</p>
+
+### Low-Level Storyboard
