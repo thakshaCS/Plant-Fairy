@@ -57,11 +57,20 @@ After brainstoroming possible solutions to the problem, we finalized on a soluti
 
 <p align="center">
 <img width="363" alt="Screenshot 2024-01-19 at 2 13 54 PM" src="https://github.com/thakshaCS/Plant-Fairy/assets/97854264/81d9bd97-8fda-4732-bf90-aa5201ca0032">
-</p>
+
 
 ### Low-Level Storyboard
 
+<p align="center">
+<img width="704" alt="Screenshot 2024-01-19 at 2 49 56 PM" src="https://github.com/thakshaCS/Plant-Fairy/assets/97854264/88ec667d-ae72-453c-9b71-7959312d5ba0">
 
+For a larger version, please use this [link](https://drive.google.com/file/d/10YSGAxlCIX-IQyMTG-g985lv_YBmAtzI/view).
+
+</p>
+<p align="center">
+<img width="529" alt="Screenshot 2024-01-19 at 2 51 48 PM" src="https://github.com/thakshaCS/Plant-Fairy/assets/97854264/9bde0c94-6ab7-400f-b6ac-40b5bd8ded8d">
+For a larger version, please use this [link](https://drive.google.com/file/d/1RC3YMgtdxHoX16ictH9k8VW2Mn8xf7JF/view).
+</p>
 
 ## User Research Team
 - Thakshajiny Mangaleswaran
