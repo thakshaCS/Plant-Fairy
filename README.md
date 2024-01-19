@@ -9,7 +9,7 @@ Plant Fairy is an app plant owners can use to monitor and take care of their pla
 - Plant Community: A place for plant-owners to discuss, share concerns and provide support. It is formated similary to Reddit, users can upvote/downvote posts, reply to comments/post and add tags to post. The credibility of a users response or post on the form is based on whether they have a  plant care badge.
 
 Demo of using the app: [Plant Fairy Demo](https://drive.google.com/file/d/1w3m2ykr7A3i_1IP-zOgQ6sKccf0A4VDc/view?usp=drive_link)
-
+To try out the high fidelity protype of the app: [Plant Fairy Protype](https://www.figma.com/proto/DqdQNfpzlLlEo3a8N01t95/The-A-Team---Plant-Fairy-High-Fidelity-Prototype---CSC318?type=design&node-id=1-2&t=5XtQqMy6MUyhpAc3-1&scaling=scale-down&page-id=0%3A1&starting-point-node-id=1%3A2&show-proto-sidebar=1&mode=design)
 
 
 
