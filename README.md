@@ -1,18 +1,19 @@
 # Plant-Fairy
 
 ## Introduction
-Plant Fairy is an app plant owners can use to monitor and take care of their plants remotely and in-person. It has three features:
 
-- Greenhouse : Display plants that have linked to their app. Each plant  may have  an exclamation symbol to indicate it needs attention and a link symbol indicating that its linked to a device.
+Plant Fairy is an app plant owners can use to monitor and take care of their plants remotely and in person. It has three features:
 
-- Plant Academy: A page for plant owners to learn about their plants from articles written by credible people. Each article lists history about the plant andplant care practices. Also each article has a quiz that users can use to test what they have learned.
+- Greenhouse: Display plants that have linked to their app. Each plant may have an exclamation symbol to indicate it needs attention and a link symbol to suggest that it's linked to a device.
 
-- Plant Community: A place for plant-owners to discuss, share concerns and provide support. It is formated similary to Reddit, users can upvote/downvote posts, reply to comments/post and add tags to post. The credibility of a users response or post on the form is based on whether they have a  plant care badge.
+- Plant Academy: A page for plant owners to learn about their plants from articles written by credible people. Each article lists the history of plant and plant care practices. Also, each article has a quiz that users can use to test what they have learned.
+
+- Plant Community: A place for plant owners to discuss, share concerns, and provide support. It is similar to Reddit; users can upvote/downvote posts, reply to comments/posts and add tags to posts. The credibility of a user's response or post on the form is based on whether they have a  plant care badge.
 
 ### Try Out Plant Fairy
 Demo of using the app: [Plant Fairy Demo](https://drive.google.com/file/d/1w3m2ykr7A3i_1IP-zOgQ6sKccf0A4VDc/view?usp=drive_link)
 
-To try out the high fidelity protype of the app: [Plant Fairy Protype](https://www.figma.com/proto/DqdQNfpzlLlEo3a8N01t95/The-A-Team---Plant-Fairy-High-Fidelity-Prototype---CSC318?type=design&node-id=1-2&t=5XtQqMy6MUyhpAc3-1&scaling=scale-down&page-id=0%3A1&starting-point-node-id=1%3A2&show-proto-sidebar=1&mode=design)
+To try out the high-fidelity prototype of the app: [Plant Fairy Protype](https://www.figma.com/proto/DqdQNfpzlLlEo3a8N01t95/The-A-Team---Plant-Fairy-High-Fidelity-Prototype---CSC318?type=design&node-id=1-2&t=5XtQqMy6MUyhpAc3-1&scaling=scale-down&page-id=0%3A1&starting-point-node-id=1%3A2&show-proto-sidebar=1&mode=design)
 
 ## Problem Statment
 
@@ -21,17 +22,17 @@ Plant owners with a busy lifestyle and minimal plant care experience want an eas
 
 ## Formative Studies
 
-We conducted questionnaires and interviews to better understand the problem. Based on the formative studies we developed the persona of a plant owners.
+We conducted questionnaires and interviews to understand the problem better. Based on the formative studies, we developed the persona of a plant owner.
 
 <p align="center">
 <img width="619" alt="Screenshot 2024-01-17 at 9 58 02 PM" src="https://github.com/thakshaCS/Plant-Fairy/assets/97854264/3ffe31fb-cf89-4d3b-a62d-6042ad871bd0">
 
-<p align="center">
+
 Figure 1: Plant owner persona
-</p>
+
 </p>
 
-Also based on our finding we created an experince map to help us develop job stories and design requirments.
+Also, based on our findings, we created an experience map to help us develop job stories and design requirements.
 
 <p align="center">
 <img width="908" alt="Screenshot 2024-01-17 at 10 00 33 PM" src="https://github.com/thakshaCS/Plant-Fairy/assets/97854264/c88050c5-6716-428b-9086-ef5ec2d8971a">
@@ -43,7 +44,7 @@ Figure 2: Houseplant Owner [Experience Map](https://drive.google.com/file/d/1KID
 
 ## Design Concepts and Prototypes
 
-After brainstoroming possible solutions to the problem, we finalized on a solution that drew from the advantages of each solution. We created high and low level storyboard to demonstrate how planter owners will use and iteract with our app.
+After brainstorming possible solutions to the problem, we finalized a solution that drew from the advantages of each solution. We created high and low-level storyboards to demonstrate how planter owners will use and interact with our app.
 
 ### High-Level Storyboard
 
@@ -62,8 +63,7 @@ After brainstoroming possible solutions to the problem, we finalized on a soluti
 <p align="center">
 <img width="363" alt="Screenshot 2024-01-19 at 2 13 54 PM" src="https://github.com/thakshaCS/Plant-Fairy/assets/97854264/81d9bd97-8fda-4732-bf90-aa5201ca0032">
 
-Figure 3: Plant Owners uses planty fairy to identify when their plant's health is declining, what the cause is, and to fix the issue by interacting with the hardware
-devices through the app or fixing these issues themselves.
+Figure 3: Plant Owners use Plant Fairy to identify when their plant's health is declining, what the cause is, and to fix the issue by interacting with the hardware devices through the app or fixing them themselves.
 </p>
 
 
@@ -93,15 +93,14 @@ For a larger version,[click here](https://drive.google.com/file/d/1RC3YMgtdxHoX1
 
 ### Evaluvation of Low Fideltiy Prototype
 
-We evaluvated our paper prototype by conducting think aloud and heurstic evaluvations.
+We evaluated our paper prototype by conducting think-aloud and heuristic evaluations.
 
 #### Think Aloud
 
-Some of the context/tasks provided to the participant in the think aloud section are:
+Some of the context/tasks provided to the participant in the think-aloud section are:
 
 - Task: Register and Add A Plant
-Imagine that you are a plant owner, and you are seeking to improve your plant care routine and practices. You expect to learn more about the plant you currently own. 
-Now, I would like you to show me how you would add a snake plant to this app. Feel free to explore the interface as you see fit. 
+Imagine that you are a plant owner, and you are seeking to improve your plant care routine and practices. You expect to learn more about the plant you currently own. Now, I would like you to show me how you would add a snake plant to this app. Feel free to explore the interface as you see fit. 
 
 
 - Task: Remedy Plant Issues Via App + Hardware
@@ -114,7 +113,7 @@ Now, I would like you to show me how you would engage with other plant owners th
 
 #### Heuristic Evaluvation
 
-We categorized the finding from the heurstic evaluvation in what heuristics they violated and the severity of the issue.
+We categorized the findings from the heuristic evaluation in terms of what heuristics they violated and the severity of the issue.
 
 <p align="center">
 <img width="670" alt="Screenshot 2024-01-19 at 3 46 31 PM" src="https://github.com/thakshaCS/Plant-Fairy/assets/97854264/4d9fe32d-d787-4383-ba16-e4b3b77c3136">
@@ -124,23 +123,22 @@ Figure 7:  Heuristic Evaluation Feedback Categorization
 
 </p>
 
-The findings from these evaluvation were taken into account to improve our prototype.
+The findings from these evaluations were taken into account to improve our prototype.
 
 ## High-Fidelity Prototype and Summative Evaluation 
 
-Based on the feedback from the evaluation of the low fideltiy prototype we refined our design. 
+We refined our design based on the feedback from the evaluation of the low-fidelity prototype. 
 
 ## Usability Testing
 
- We recurited particpant to test the usability of our high fidelity prototype.
-In order to assess the efficiency and effectiveness of the system, we collected data by measuring the time participants took to complete tasks, by gathering their feedback through comments and notes and by having them fill out a system usability scale form. Most particpant stated that Plant Fairy 
+We recruited participants to test the usability of our high-fidelity prototype. To assess the efficiency and effectiveness of the system, we collected data by measuring the time participants took to complete tasks, gathering their feedback through comments and notes, and having them fill out a system usability scale form. Feedback from the participants in regards to Plant Fairy was: 
 
 - had a clear layout
-- visually appealing & consistent design
+- visually appealing and consistent design
 - easy to use
-- tutorial was helpful in figuring out how to use the app
+- The tutorial helped them figure out how to use the app
 
-Also we received an average SUS score of 88.06 (excellent).
+Also, we received an average SUS score of 88.06 (excellent).
 
 ## User Research Team
 - Thakshajiny Mangaleswaran
